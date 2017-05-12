@@ -1,9 +1,9 @@
 # Site settings
-title: Jekyll-Uno
-description: 'Jekyll-Uno - a minimal, responsive theme for Jekyll'
-url: 'http://joshgerdes.com/jekyll-uno'
+title: Deusmar Júnior
+description: 'Web Developer'
+url: ''
 baseurl: '/'
-# google_analytics: 'UA-XXXXXX-X'
+google_analytics: 'UA-99017222-1'
 # disqus_shortname: 'your-disqus-name'
 
 author:
